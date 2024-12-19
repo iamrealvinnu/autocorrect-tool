@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto Correct Tool
 
 A Python-based text correction tool with GUI interface that uses the T5 transformer model for grammar correction.
@@ -20,3 +21,6 @@ A Python-based text correction tool with GUI interface that uses the T5 transfor
 
 2. Install required packages:
 
+=======
+# autocorrect-tool
+>>>>>>> 11d2a9567d58d291aafad5ed92cecf86f5fc5987
