@@ -96,8 +96,8 @@ This project is open source and available under the MIT License.
 - API integration capabilities
 
 ## Connect With Me
-LinkedIn: Vinay Gupta
-Portfolio: gupta-vinay-portfolio.netlify.app
+LinkedIn: https://www.linkedin.com/in/guptavinayc/
+Portfolio: https://www.gupta-vinay-portfolio.netlify.app
 Email: gupta.vinayC@gmail.com
 
 ## Development Setup
