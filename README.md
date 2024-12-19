@@ -1,3 +1,13 @@
+<div align="center">
+  <h1>🔤 Auto Correct Tool</h1>
+  <p>
+    <strong>AI-Powered Grammar Correction Tool | Python | Machine Learning</strong>
+  </p>
+  <p>
+    <img src="demo.gif" alt="Auto Correct Tool Demo" width="600"/>
+  </p>
+</div>
+
 # Auto Correct Tool
 
 A Python-based text correction tool with GUI interface that uses the T5 transformer model for grammar correction. This tool helps users correct grammar and spelling mistakes in real-time using advanced machine learning.
@@ -67,3 +77,40 @@ Feel free to:
 ## License
 
 This project is open source and available under the MIT License.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![AI](https://img.shields.io/badge/AI-T5%20Transformer-orange.svg)
+
+## Technical Implementation
+- Implemented using Python and T5 Transformer model
+- Built GUI using Tkinter for cross-platform compatibility
+- Integrated advanced NLP capabilities using happytransformer
+- Implemented error handling and user feedback system
+- Used object-oriented programming principles
+
+## Future Enhancements
+- Support for multiple languages
+- Advanced text formatting options
+- Cloud-based processing
+- API integration capabilities
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn]
+- Portfolio: [Your Portfolio]
+- Email: [Your Email]
+
+## Development Setup
+```bash
+# Clone the repository
+git clone https://github.com/iamrealvinnu/autocorrect-tool.git
+
+# Navigate to project directory
+cd autocorrect-tool
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+python autoCorrect_tool.py
+```
