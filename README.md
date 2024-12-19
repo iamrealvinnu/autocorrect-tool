@@ -62,7 +62,7 @@ Feel free to:
 
 ## Author
 
-- Vinay Gupta (@iamrealvinnu)
+- Vinay Gupta (https://github.com/iamrealvinnu)
 
 ## License
 
