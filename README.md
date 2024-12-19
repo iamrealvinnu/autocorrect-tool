@@ -96,9 +96,9 @@ This project is open source and available under the MIT License.
 - API integration capabilities
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Portfolio]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/guptavinayc/]
+- Portfolio: [https://gupta-vinay-portfolio.netlify.app/]
+- Email: [mailto:gupta.vinayC@gmail.com]
 
 ## Development Setup
 ```bash
